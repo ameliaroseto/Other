@@ -1,8 +1,6 @@
 [![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw07-late_for_class.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw07-late_for_class)
 
-# PHYS220/MATH220/CPSC220 CW 7
-
-**Author(s):** **Abby Wheaton and Frank Entriken**
+**Author(s):** **Amelia Roseto**
 
 ## Specification
 
@@ -15,19 +13,4 @@
 
 Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recommend delegating one person from your group to edit the notebook, to avoid merge conflicts.
 
-## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**This assignment gave us a more detailed idea of how matplotlib and numpy work together. Creating the Jupyter Notebook felt like an accomplishment because of how much work we put into it.**
-
-## Honor Pledge
-
-I pledge that all the work in this repository is my own with only the following exceptions:
-
-* Content of starter files supplied by the instructor;
-* Code borrowed from another source, documented with correct attribution in the code and summarized here.
-
-Signed,
-
-**Abby Wheaton and Frank Entriken**
