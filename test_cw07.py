@@ -6,10 +6,7 @@ import numpy as np
 import cw07
 
 def test_gauss_list():
-    """test_gauss_list()
-    Tests whether Gaussian values are correct for domain points -1, 0, and 1,
-    using the reference list implementation.
-    """
+
     x,g = cw07.gen_gaussian_list(-1,1,3)
     desired = [0.24197072451914337, 0.3989422804014327, 0.24197072451914337]
     print("Obtained:",g)
@@ -19,10 +16,7 @@ def test_gauss_list():
     nose.tools.assert_almost_equal(g, desired)
 
 def test_gauss_array():
-    """test_gauss_array()
-    Tests whether Gaussian values are correct for domain points -1, 0, and 1,
-    using the numpy array implementation.
-    """
+
     x,g = cw07.gen_gaussian_array(-1,1,3)
     desired = np.array([0.24197072451914337, 0.3989422804014327, 0.24197072451914337])
     print("Obtained:",g)
