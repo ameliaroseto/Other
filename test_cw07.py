@@ -1,18 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-###
-# Name: YOUR_FULL_NAME_HERE
-# Student ID: ID_HERE
-# Email: CHAPMAN_EMAIL_HERE
-# Course: PHYS220/MATH220/CPSC220 Fall 2018
-# Assignment: HOMEWORK_OR_CLASSWORK_NUMBER
-###
-
-"""Classwork 07 Test Functions
-This suite of functions tests the functionality of the CW07 solutions.
-"""
-
 import nose
 import numpy as np
 import cw07
